@@ -1,3 +1,4 @@
+//ATM INTERFACE
 import java.util.Scanner; 
 class BankAccount 
 { 
