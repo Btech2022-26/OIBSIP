@@ -1,4 +1,4 @@
-//Online Examination
+//ONLINE EXAMINATION
 import java.util.Scanner;
 public class Task2 {
     private static Scanner scanner = new Scanner(System.in);
